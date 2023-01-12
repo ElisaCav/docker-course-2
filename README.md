@@ -1,2 +1,2 @@
-# docker-course-2
+# docker-course-3
 Simple application for Course Assignment
